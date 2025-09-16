@@ -25,4 +25,5 @@ Improve Strategic Planning – Use trend analysis and historical performance dat
 
 
 ## Demo
-![Demonstration 2](https://github.com/user-attachments/assets/1b1e615d-1c89-4ac0-97a2-0cf7759a9597)
+![Adobe Express - Screen Recorded](https://github.com/user-attachments/assets/2d3b78e5-7072-4f71-b3da-a441d4bf5c98)
+
